@@ -1,0 +1,40 @@
+/home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:1:10: fatal error: 'iostream' file not found
+#include <iostream>
+         ^~~~~~~~~~
+using 'using'	 [StartOfLine]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:2:1>
+namespace 'namespace'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:2:7>
+identifier 'std'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:2:17>
+semi ';'		Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:2:20>
+int 'int'	 [StartOfLine]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:4:1>
+identifier 'main'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:4:5>
+l_paren '('		Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:4:9>
+r_paren ')'		Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:4:10>
+l_brace '{'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:4:12>
+for 'for'	 [StartOfLine] [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:5>
+l_paren '('	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:9>
+int 'int'		Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:10>
+identifier 'i'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:14>
+equal '='	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:16>
+numeric_constant '0'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:18>
+semi ';'		Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:19>
+identifier 'i'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:21>
+less '<'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:23>
+numeric_constant '10'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:25>
+semi ';'		Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:27>
+plusplus '++'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:29>
+identifier 'i'		Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:31>
+r_paren ')'		Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:32>
+l_brace '{'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:5:34>
+identifier 'cout'	 [StartOfLine] [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:6:9>
+lessless '<<'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:6:14>
+string_literal '"Hello world"'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:6:17>
+lessless '<<'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:6:31>
+identifier 'endl'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:6:34>
+semi ';'		Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:6:38>
+r_brace '}'	 [StartOfLine] [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:7:5>
+return 'return'	 [StartOfLine] [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:8:5>
+numeric_constant '0'	 [LeadingSpace]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:8:12>
+semi ';'		Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:8:13>
+r_brace '}'	 [StartOfLine]	Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:9:1>
+eof ''		Loc=</home/guoruijie/IdeaProjects/ISER_PA1/src/main/resources/test1.cpp:9:2>
+1 error generated.
