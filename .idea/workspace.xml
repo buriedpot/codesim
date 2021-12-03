@@ -2,48 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3a87e28-388a-44a1-9de1-5ce995183b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISER_PA1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/System.err" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/System.err.2021-11-26" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lexer/GST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/global/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/ClangUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/LogUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/test5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lexer/GST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Lexer/Match.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/global/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test/MyTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/util/ClangUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/util/LogUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/codesim-jar-with-dependencies.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/codesim.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/original-codesim.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lexer/GST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lexer/Match.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/global/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/MyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/ClangUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/LogUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/codesim-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/codesim.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-codesim.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,29 +125,29 @@
     </state>
     <state x="634" y="174" width="544" height="560" key="#com.intellij.ide.util.MemberChooser/67.27.1516.857@67.27.1516.857" timestamp="1637898659106" />
     <state x="635" y="175" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1520.861@67.27.1520.861" timestamp="1637821501378" />
-    <state width="1474" height="218" key="GridCell.Tab.0.bottom" timestamp="1638446836877">
+    <state width="1474" height="218" key="GridCell.Tab.0.bottom" timestamp="1638498151249">
       <screen x="67" y="27" width="1520" height="861" />
     </state>
     <state width="1470" height="217" key="GridCell.Tab.0.bottom/67.27.1516.857@67.27.1516.857" timestamp="1637945018447" />
-    <state width="1474" height="218" key="GridCell.Tab.0.bottom/67.27.1520.861@67.27.1520.861" timestamp="1638446836877" />
+    <state width="1474" height="218" key="GridCell.Tab.0.bottom/67.27.1520.861@67.27.1520.861" timestamp="1638498151249" />
     <state width="1807" height="162" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1637836594277" />
-    <state width="1474" height="218" key="GridCell.Tab.0.center" timestamp="1638446836875">
+    <state width="1474" height="218" key="GridCell.Tab.0.center" timestamp="1638498151244">
       <screen x="67" y="27" width="1520" height="861" />
     </state>
     <state width="1470" height="217" key="GridCell.Tab.0.center/67.27.1516.857@67.27.1516.857" timestamp="1637945018445" />
-    <state width="1474" height="218" key="GridCell.Tab.0.center/67.27.1520.861@67.27.1520.861" timestamp="1638446836875" />
+    <state width="1474" height="218" key="GridCell.Tab.0.center/67.27.1520.861@67.27.1520.861" timestamp="1638498151244" />
     <state width="1807" height="162" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1637836594275" />
-    <state width="1474" height="218" key="GridCell.Tab.0.left" timestamp="1638446836874">
+    <state width="1474" height="218" key="GridCell.Tab.0.left" timestamp="1638498151242">
       <screen x="67" y="27" width="1520" height="861" />
     </state>
     <state width="1470" height="217" key="GridCell.Tab.0.left/67.27.1516.857@67.27.1516.857" timestamp="1637945018443" />
-    <state width="1474" height="218" key="GridCell.Tab.0.left/67.27.1520.861@67.27.1520.861" timestamp="1638446836874" />
+    <state width="1474" height="218" key="GridCell.Tab.0.left/67.27.1520.861@67.27.1520.861" timestamp="1638498151242" />
     <state width="1807" height="162" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1637836594274" />
-    <state width="1474" height="218" key="GridCell.Tab.0.right" timestamp="1638446836876">
+    <state width="1474" height="218" key="GridCell.Tab.0.right" timestamp="1638498151246">
       <screen x="67" y="27" width="1520" height="861" />
     </state>
     <state width="1470" height="217" key="GridCell.Tab.0.right/67.27.1516.857@67.27.1516.857" timestamp="1637945018446" />
-    <state width="1474" height="218" key="GridCell.Tab.0.right/67.27.1520.861@67.27.1520.861" timestamp="1638446836876" />
+    <state width="1474" height="218" key="GridCell.Tab.0.right/67.27.1520.861@67.27.1520.861" timestamp="1638498151246" />
     <state width="1807" height="162" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1637836594276" />
     <state width="1470" height="265" key="GridCell.Tab.1.bottom" timestamp="1637839187397">
       <screen x="67" y="27" width="1516" height="857" />
